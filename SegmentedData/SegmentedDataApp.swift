@@ -11,7 +11,7 @@ import SwiftUI
 struct SegmentedDataApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LocalDataView()
         }
     }
 }

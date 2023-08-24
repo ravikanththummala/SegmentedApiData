@@ -1,0 +1,8 @@
+{"accountList":
+        [
+            {"accountId":"asefdasdfasd-asdfasdf-asdf","accountNickName":"BOFA 1234","acountBalance":"$123,456,789.00","type":"DDA","isExt":"Y","lastUpdated":"08/18/2023"},
+            {"accountId":"43534-asdfasdf-asdf","accountNickName":"Well Fargo 7343","type":"DDA","isExt":"N","acountBalance":"$ 356,564.00","lastUpdated":"08/18/2023"},
+            {"accountId":"asefd4asdfasd-2367-asdf","accountNickName":"Citi 2343","acountBalance":"$123,456,789.00","type":"DDA","isExt":"Y","lastUpdated":"08/18/2023"},
+            {"accountId":"asefdasdfasd-asdfasdf-asdf","accountNickName":"Checking 1234","acountBalance":"$123,456,789.00","type":"DDA","isExt":"Y","lastUpdated":"08/18/2023"}
+        ]
+}

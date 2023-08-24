@@ -14,6 +14,8 @@
 		3D427DEA2A97E3CC006CAC01 /* AccountRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D427DE92A97E3CC006CAC01 /* AccountRow.swift */; };
 		3D427DEC2A97E3D5006CAC01 /* AccountViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D427DEB2A97E3D5006CAC01 /* AccountViewModel.swift */; };
 		3D427DEE2A97E3DE006CAC01 /* Account.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D427DED2A97E3DE006CAC01 /* Account.swift */; };
+		3D427DF02A97E8D0006CAC01 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 3D427DEF2A97E8D0006CAC01 /* data.json */; };
+		3D427DF22A97E91E006CAC01 /* LocalDataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D427DF12A97E91E006CAC01 /* LocalDataView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		3D427DE92A97E3CC006CAC01 /* AccountRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccountRow.swift; sourceTree = "<group>"; };
 		3D427DEB2A97E3D5006CAC01 /* AccountViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccountViewModel.swift; sourceTree = "<group>"; };
 		3D427DED2A97E3DE006CAC01 /* Account.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Account.swift; sourceTree = "<group>"; };
+		3D427DEF2A97E8D0006CAC01 /* data.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
+		3D427DF12A97E91E006CAC01 /* LocalDataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalDataView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,7 @@
 				3D427DE72A97E391006CAC01 /* Model */,
 				3D427DE62A97E387006CAC01 /* View */,
 				3D427DD82A97E37E006CAC01 /* SegmentedDataApp.swift */,
+				3D427DEF2A97E8D0006CAC01 /* data.json */,
 				3D427DDC2A97E37F006CAC01 /* Assets.xcassets */,
 				3D427DDE2A97E37F006CAC01 /* Preview Content */,
 			);
@@ -80,6 +85,7 @@
 			children = (
 				3D427DE92A97E3CC006CAC01 /* AccountRow.swift */,
 				3D427DDA2A97E37E006CAC01 /* ContentView.swift */,
+				3D427DF12A97E91E006CAC01 /* LocalDataView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -159,6 +165,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D427DE02A97E37F006CAC01 /* Preview Assets.xcassets in Resources */,
+				3D427DF02A97E8D0006CAC01 /* data.json in Resources */,
 				3D427DDD2A97E37F006CAC01 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -174,6 +181,7 @@
 				3D427DEA2A97E3CC006CAC01 /* AccountRow.swift in Sources */,
 				3D427DDB2A97E37E006CAC01 /* ContentView.swift in Sources */,
 				3D427DEC2A97E3D5006CAC01 /* AccountViewModel.swift in Sources */,
+				3D427DF22A97E91E006CAC01 /* LocalDataView.swift in Sources */,
 				3D427DD92A97E37E006CAC01 /* SegmentedDataApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
